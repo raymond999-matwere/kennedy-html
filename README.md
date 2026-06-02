@@ -1,4 +1,5 @@
-[kennedy_restaurant (2).html](https://github.com/user-attachments/files/28490441/kennedy_restaurant.2.html)
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
